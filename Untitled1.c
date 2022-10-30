@@ -1,3 +1,7 @@
 #include<stdio.h>
 
-return 0;
+void feature1()
+{
+
+}
+
